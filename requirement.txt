@@ -1,0 +1,5 @@
+tensorflow
+pil
+flask
+numpy
+fcntl
