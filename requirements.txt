@@ -1,5 +1,6 @@
-tensorflow
-pil
-flask
-numpy
-fcntl
+Flask==3.0.3
+flask-cors==4.0.0
+tensorflow==2.15.0
+Pillow==10.2.0
+numpy==1.26.4
+waitress==3.0.0
